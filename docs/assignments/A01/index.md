@@ -27,6 +27,22 @@ The portfolio shows how decisions were made instead of displaying complete desig
 
 The vocabulary meets standard workplace communication criteria. The language avoids casual phrasing.
 
+### Part B
+#### Nail Clippers
+
+The primary engineering function of a nail clipper is to convert an applied hand force into a concentrated cutting force at two opposing cutting edges to shear a nail. 
+
+The primary governing model for the nail clipper is static moment equilibrium about the lever's pivot. 
+
+One important engineering design decision is the use of a long operating lever compared with the short distance between the lever's pivot and the cutting mechanism.This geometry increases the mechanical advantage of the nail clipper.
+
+One assumption that makes this model valid is that the metal components can be treated as rigid bodies and friction at the pivot can be neglected. This allows the nail clipper to be modeled as an ideal lever.
+
+INSERT PIC : The lower cutting member forms one of the two opposing cutting edges. Its front end contains a sharp, curved cutting surface designed to match the shape of a fingernail or toenail. The cutting edge is thin so that the applied force is concentrated into a small contact area. Concentrating the force increases the stress applied to the nail and allows it to be sheared.
+
+INSERT PIC : The upper cutting member contains the opposing cutting edge.The two cutting edges are positioned so that they overlap slightly as the clipper closes. This geometry allows the nail to be placed between the edges and sheared when the cutting members move toward one another.
+
+INSERT PIC:  The operating lever is the component that the user presses with their finger.The lever is significantly longer than the distance between its pivot and the point where it applies force to the cutting members. This difference in length creates mechanical advantage.
 
 ## Decide
 
