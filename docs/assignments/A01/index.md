@@ -60,6 +60,9 @@ Although its operating principle is different, it performs the same overall func
 One important engineering design decision is the use of a long operating lever compared with the short distance between the lever's pivot and the cutting mechanism. The engineer likely selected this geometry because fingernails are relatively hard and require a significant force to shear. A user would have difficulty generating this force directly with their fingers. The long lever allows the user to apply a smaller input force while producing a much larger output force at the cutting edges.  
 
 ## Decide
+The homepage of an engineering portfolio is designed to communicate that the site is a record of engineering education, projects, work, and development. The content is organized so that a person, such as a professor, employer, or other engineer, can quickly understand what information is available and how it is organized. Rather than focusing on personal things, the homepage emphasizes the purpose and standard of the portfolio by providing clear directions to sections containing projects, coursework, technical skills, and other evidence of my work. This organization is intended to make the portfolio easier to navigate and allow reader to evaluate my technical abilities, problem-solving skills, and growth as an engineer properly.
+
+The intentional customization I made to the portfolio template was changing the color scheme of the website. I made this change to improve the site's readability and create clearer visual separation between different sections of the portfolio. 
 
 
 ## Communicate
