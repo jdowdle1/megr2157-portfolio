@@ -50,10 +50,12 @@ Title: Improvement in Nail-Clippers
 Patent Date: July 13, 1875
 
 1. Nail Scissors
+
 Nail scissors use two pivoting blades to shear the nail. Like nail clippers, they convert hand force into concentrated cutting force at the blade edges.
 The primary difference is that nail scissors require the user to squeeze two handles together, while nail clippers generally use a lever to amplify the input force.
 
 2. Electric Nail Trimmer
+
 An electric nail trimmer uses a powered rotating or oscillating cutting mechanism instead of relying entirely on the user's hand force.
 Although its operating principle is different, it performs the same overall function of removing material from the nail to shorten it.
 
