@@ -62,7 +62,7 @@ One important engineering design decision is the use of a long operating lever c
 ## Decide
 The homepage of an engineering portfolio is designed to communicate that the site is a record of engineering education, projects, work, and development. The content is organized so that a person, such as a professor, employer, or other engineer, can quickly understand what information is available and how it is organized. Rather than focusing on personal things, the homepage emphasizes the purpose and standard of the portfolio by providing clear directions to sections containing projects, coursework, technical skills, and other evidence of my work. This organization is intended to make the portfolio easier to navigate and allow reader to evaluate my technical abilities, problem-solving skills, and growth as an engineer properly.
 
-The intentional customization I made to the portfolio template was changing the color scheme of the website. I made this change to improve the aspect of attention grabbing. 
+The intentional customization I made to the portfolio template was changing the color scheme of the website. I made this change to improve the aspect of attention grabbing and to improve the professionalism of the portfolio. 
 
 
 ## Communicate
