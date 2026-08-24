@@ -43,8 +43,11 @@ INSERT PIC : The upper cutting member contains the opposing cutting edge.The two
 INSERT PIC:  The operating lever is the component that the user presses with their finger.The lever is significantly longer than the distance between its pivot and the point where it applies force to the cutting members. This difference in length creates mechanical advantage.
 
 ### Patent Number: U.S. 165,621 
+
 Inventor: Valentine Fogerty 
+
 Title: Improvement in Nail-Clippers 
+
 Patent Date: July 13, 1875
 
 1. Nail Scissors
