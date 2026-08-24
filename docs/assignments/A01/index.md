@@ -14,6 +14,12 @@ The documentation does not give the instructions for direct replication. While t
 
 This portfolio shows the decision-making process over final outcomes. The case studies outline initial design challenges, iterative design stages, and steps. It presents the justifications that led to the products' final shapes.
 
+The language is professional and does meet the standards of engineering language and one of an employer. 
+
+#### Rick Meade
+[Rick Meade's Portfolio](https://rjmeade.github.io/)
+
+
 
 ## Decide
 
