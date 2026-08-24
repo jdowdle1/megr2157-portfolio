@@ -44,6 +44,20 @@ INSERT PIC : The upper cutting member contains the opposing cutting edge.The two
 
 INSERT PIC:  The operating lever is the component that the user presses with their finger.The lever is significantly longer than the distance between its pivot and the point where it applies force to the cutting members. This difference in length creates mechanical advantage.
 
+Patent Number: U.S. 165,621 
+Inventor: Valentine Fogerty 
+Title: Improvement in Nail-Clippers 
+Patent Date: July 13, 1875
+
+1. Nail Scissors
+Nail scissors use two pivoting blades to shear the nail. Like nail clippers, they convert hand force into concentrated cutting force at the blade edges.
+The primary difference is that nail scissors require the user to squeeze two handles together, while nail clippers generally use a lever to amplify the input force.
+
+2. Electric Nail Trimmer
+An electric nail trimmer uses a powered rotating or oscillating cutting mechanism instead of relying entirely on the user's hand force.
+Although its operating principle is different, it performs the same overall function of removing material from the nail to shorten it.
+
+
 ## Decide
 
 
