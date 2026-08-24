@@ -1,2 +1,2 @@
 #About Me
-This is how to edit
+# MEGR 2157 – Design Portfolio 
