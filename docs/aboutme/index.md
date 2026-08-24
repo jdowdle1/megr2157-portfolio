@@ -1,2 +1,2 @@
 #About Me
-# MEGR 2157 – Design Portfolio 
+# Jackson Dowdle MEGR 2157 – Design Portfolio 
