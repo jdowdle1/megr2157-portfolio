@@ -19,6 +19,13 @@ The language is professional and does meet the standards of engineering language
 #### Rick Meade
 [Rick Meade's Portfolio](https://rjmeade.github.io/)
 
+In Rick’s portfolio a reader can find a specific assignment within 60 seconds.
+
+The documentation contains reasonable context to replicate system logic, but has no mechanical details for completing a physical replication. 
+
+The portfolio shows how decisions were made instead of displaying complete designs. It shows the explicit application of engineering tools.
+
+The vocabulary meets standard workplace communication criteria. The language avoids casual phrasing.
 
 
 ## Decide
