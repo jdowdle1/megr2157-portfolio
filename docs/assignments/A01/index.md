@@ -71,4 +71,4 @@ The intentional customization I made to the portfolio template was changing the 
 
 ## Communicate
 
-This assignment took me 3-4 hours working on and off
+This assignment took me 3-4 hours working on and off.
