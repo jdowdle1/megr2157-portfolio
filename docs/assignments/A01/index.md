@@ -36,7 +36,7 @@ The primary governing model for the nail clipper is static moment equilibrium ab
 
 One assumption that makes this model valid is that the metal components can be treated as rigid bodies and friction at the pivot can be neglected. This allows the nail clipper to be modeled as an ideal lever.
 
-INSERT PIC : The cutting members form the cutting edges. Its front end contains a sharp, curved cutting surface designed to match the shape of a fingernail or toenail. The cutting edge is thin so that the applied force is concentrated into a small contact area. Concentrating the force increases the stress applied to the nail and allows it to be sheared.
+(IMG_6666.HEIC) The cutting members form the cutting edges. Its front end contains a sharp, curved cutting surface designed to match the shape of a fingernail or toenail. The cutting edge is thin so that the applied force is concentrated into a small contact area. Concentrating the force increases the stress applied to the nail and allows it to be sheared.
 
 INSERT PIC : The upper cutting member contains the opposing cutting edge.The two cutting edges are positioned so that they overlap slightly as the clipper closes. This geometry allows the nail to be placed between the edges and sheared when the cutting members move toward one another.
 
