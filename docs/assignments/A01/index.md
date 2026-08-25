@@ -2,6 +2,7 @@
 
 ## Objective
 
+Launching and creating a portfolio that is specific to my career and educational path. To demonstrate my effort and commitment to coworkers and potential employers, my portfolio will include academic goals and accomplishments.
 
 ## Analyze
 ### Part A
