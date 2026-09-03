@@ -10,6 +10,10 @@ I analyzed the forces acting on the truss and designed the structure and braces 
 I chose a design with a supporting member from the B point to the D point.
 
 ## Communicate
+
+(truss design.pdf)!
+(megr2156beamlastcut.png)
+
 Only 2157 Students: 
 
 Part 1: 
