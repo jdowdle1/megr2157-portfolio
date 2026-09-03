@@ -11,11 +11,12 @@ I chose a design with a supporting member from the B point to the D point.
 
 ## Communicate
 
-<a href="https://postimg.cc/G8wZZxdd" target="_blank"><img src="https://i.postimg.cc/G8wZZxdd/IMG-6711.avif" alt="IMG-6711"></a><br><br>
-<a href="https://postimg.cc/QHfZH7kQ" target="_blank"><img src="https://i.postimg.cc/QHfZH7kQ/IMG-6712.avif" alt="IMG-6712"></a><br><br>
-<a href="https://postimg.cc/hzWHH1cv" target="_blank"><img src="https://i.postimg.cc/hzWHH1cv/IMG-6713.avif" alt="IMG-6713"></a><br><br>
-<a href="https://postimg.cc/zbZ99F85" target="_blank"><img src="https://i.postimg.cc/zbZ99F85/IMG-6714.avif" alt="IMG-6714"></a><br><br>
-<a href="https://postimg.cc/wy8SSQgj" target="_blank"><img src="https://i.postimg.cc/wy8SSQgj/IMG-6715.avif" alt="IMG-6715"></a><br><br>
+<a href="https://postimg.cc/G8wZZxdd" target="_blank"><img src="https://i.postimg.cc/mDtB1mnz/IMG-6711.avif" alt="IMG-6711"></a><br><br>
+<a href="https://postimg.cc/QHfZH7kQ" target="_blank"><img src="https://i.postimg.cc/7ZkHtM5W/IMG-6712.avif" alt="IMG-6712"></a><br><br>
+<a href="https://postimg.cc/hzWHH1cv" target="_blank"><img src="https://i.postimg.cc/MTvqf9L7/IMG-6713.avif" alt="IMG-6713"></a><br><br>
+<a href="https://postimg.cc/zbZ99F85" target="_blank"><img src="https://i.postimg.cc/W3hTq5yD/IMG-6714.avif" alt="IMG-6714"></a><br><br>
+<a href="https://postimg.cc/wy8SSQgj" target="_blank"><img src="https://i.postimg.cc/xCcnN6ZM/IMG-6715.avif" alt="IMG-6715"></a><br><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7ZHvTBCR/megr2156beamlastcut.png' border='0' alt='megr2156beamlastcut'></a>
 
 
 
