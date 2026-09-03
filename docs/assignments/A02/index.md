@@ -18,7 +18,7 @@ I chose a design with a supporting member from the B point to the D point.
 ![Work](IMG_6715.jpg)
 ![Work](megr2156beamlastcut.png)
 
-[Creo Part File](megr2156.prt.1)
+[Truss Design](megr2156.prt.1)
 
 Only 2157 Students: 
 
