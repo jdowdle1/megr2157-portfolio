@@ -12,7 +12,13 @@ I chose a design with a supporting member from the B point to the D point.
 ## Communicate
 
 ![Work](IMG_6711.jpg)
+![Work](IMG_6712.jpg)
+![Work](IMG_6713.jpg)
+![Work](IMG_6714.jpg)
+![Work](IMG_6715.jpg)
 ![Work](megr2156beamlastcut.png)
+
+[Creo Part File](truss_design.prt)
 
 Only 2157 Students: 
 
