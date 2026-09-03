@@ -11,12 +11,12 @@ I chose a design with a supporting member from the B point to the D point.
 
 ## Communicate
 
-![Work](IMG_6711.jpg)
-![Work](IMG_6712.jpg)
-![Work](IMG_6713.jpg)
-![Work](IMG_6714.jpg)
-![Work](IMG_6715.jpg)
-![Work](megr2156beamlastcut.png)
+<a href="https://postimg.cc/G8wZZxdd" target="_blank"><img src="https://i.postimg.cc/G8wZZxdd/IMG-6711.avif" alt="IMG-6711"></a><br><br>
+<a href="https://postimg.cc/QHfZH7kQ" target="_blank"><img src="https://i.postimg.cc/QHfZH7kQ/IMG-6712.avif" alt="IMG-6712"></a><br><br>
+<a href="https://postimg.cc/hzWHH1cv" target="_blank"><img src="https://i.postimg.cc/hzWHH1cv/IMG-6713.avif" alt="IMG-6713"></a><br><br>
+<a href="https://postimg.cc/zbZ99F85" target="_blank"><img src="https://i.postimg.cc/zbZ99F85/IMG-6714.avif" alt="IMG-6714"></a><br><br>
+<a href="https://postimg.cc/wy8SSQgj" target="_blank"><img src="https://i.postimg.cc/wy8SSQgj/IMG-6715.avif" alt="IMG-6715"></a><br><br>
+
 
 
 [megr2156truss.prt.zip](https://github.com/user-attachments/files/31764156/megr2156truss.prt.zip)
