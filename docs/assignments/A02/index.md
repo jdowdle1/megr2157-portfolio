@@ -11,11 +11,13 @@ I chose a design with a supporting member from the B point to the D point.
 
 ## Communicate
 Only 2157 Students: 
+
 Part 1: 
 Tension members (BC, AD, CD): Made of ductile A500 steel and designed to fail by yielding. All three are safely below the yield strength, with SF = 3.53–4.41.
 Compression member (BA): The main concern is buckling, not yielding. Its slenderness ratio is about KL/r = 189. Its buckling capacity is only about 28.0 kN, while it carries 33.33 kN, so it would buckle before reaching the design load (SF < 1).
 Possible fixes for BA: Use a hollow tube, add a middle brace, or increase the diameter to about 1.43 in.
 BD: This is a zero-force member for this load case, so it does not have a failure concern. It can still help with stability.
+
 Part 2: 
 Failure mode: Direct single shear.
 Shear yield value: The 170 ksi value is realistic based on shear-to-tensile yield strength relationships and hardened tool-steel data.
