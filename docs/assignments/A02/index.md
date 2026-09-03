@@ -11,7 +11,7 @@ I chose a design with a supporting member from the B point to the D point.
 
 ## Communicate
 
-![Work](pdftoimage.zip)
+(pdftoimage.zip)
 ![Work](megr2156beamlastcut.png)
 
 Only 2157 Students: 
