@@ -19,7 +19,7 @@ I chose a design with a supporting member from the B point to the D point.
 ![Work](megr2156beamlastcut.png)
 
 
-[Truss CAD Model](megr2156truss.prt)
+[Download Truss CAD Model](megr2156truss.prt) (requires CAD software like SolidWorks or Creo)
 
 Only 2157 Students: 
 
