@@ -37,4 +37,4 @@ Shear yield value: The 170 ksi value is realistic based on shear-to-tensile yiel
 Safety factor: The actual safety factor is about 4.51 with the 9/16 in. pin, so it is safe.
 Best improvement: Use a double-shear (clevis) connection because it cuts the shear stress in half for the same force.
 
-Rest of the work follows
+It took me between 5-6 hours working on this to get everything done.
