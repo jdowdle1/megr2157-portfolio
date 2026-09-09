@@ -20,7 +20,12 @@ When doing this assignment I had to go through a challenge that was unexpected. 
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/pThX2WPs/A3(MEGR2157).png' border='0' alt='A3(MEGR2157)'></a>
 
 ## Decide
-
+I decided to use a .35 in diameter aluminum bar. I also decided to use learn Solid Works this week because my Creo went down. 
 
 ## Communicate
+[A3.zip](https://github.com/user-attachments/files/32030314/A3.zip) 
+This is the downloadable file above.
+
+
+
 
