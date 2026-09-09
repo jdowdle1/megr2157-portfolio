@@ -24,7 +24,7 @@ I decided to use a .35 in diameter aluminum bar. I also decided to use learn Sol
 
 ## Communicate
 [A3.zip](https://github.com/user-attachments/files/32030314/A3.zip) 
-This is the downloadable file above.
+This is the downloadable file
 
 
 
