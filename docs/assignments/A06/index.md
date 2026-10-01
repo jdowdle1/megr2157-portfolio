@@ -21,7 +21,7 @@ Since Stress was governing I used stress values
 ## Communicate
 ### Overview
 There were a few things I did wrong at first like inserting the wrong numbers or symbols for my equations but I got them figured out. Also it was a little tough still figuring out how to use solidworks and its engineering drawing feature.
-I spent about 4-5 hours on this assignment.
+I spent about 4-5 hours on this assignment. I learned how to add tolerances in Solidworks which is much easier then in Creo. 
 
 ### Reflection
 a. I drove Feature C's shelf thickness with the stress equation f. In SolidWorks I entered it in the Equations dialog as "t_C", built from other global variables (F, SF, Sy, c_C) instead of a hand-calculated number. The shelf sketch dimension references "t_C". Stress governed at 0.511 in. My calculation changed later: Feature A's stress-required diameter (0.589 in) exceeded my e7 shaft limits, so I moved the cylinder to a 0.625 in nominal and recalculated the RC5 fit.
