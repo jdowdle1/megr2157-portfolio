@@ -132,9 +132,9 @@ The tabulation was based off of the 1018 steel crosshead and lead screw along wi
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 |---|---|---|---|---|---|
-| 1 | 2 | Precision Acme flange nut, 3/4"-10, 932 bearing bronze (97790A140) | $201.69 | $403.38 | https://www.mcmaster.com/97790A140/ |
-| 2 | 2 | Precision Acme lead screw, 3/4"-10, 1018 low-carbon steel, 2 ft long (minimum 18 in) | $76.18 | $152.36 | https://www.mcmaster.com/99030A030/|
-| 3 | 1 | Multipurpose 1018 low-carbon steel bar, 3/4 in thick × 3 in wide, 2 ft long (crosshead stock) | $74.94 | $74.94 | https://www.mcmaster.com/8910K37-9143K544/ |
+| 1 | 2 | Precision Acme flange nut, 3/4"-10, 932 bearing bronze (97790A140) | $201.69 | $403.38 | [McMaster-Carr 97790A140 – Acme Flange Nut](https://www.mcmaster.com/97790A140/)|
+| 2 | 2 | Precision Acme lead screw, 3/4"-10, 1018 low-carbon steel, 2 ft long (minimum 18 in) | $76.18 | $152.36 |[McMaster-Carr 99030A030 – Steel Lead Screw](https://www.mcmaster.com/99030A030/)/|
+| 3 | 1 | Multipurpose 1018 low-carbon steel bar, 3/4 in thick × 3 in wide, 2 ft long (crosshead stock) | $74.94 | $74.94 | [McMaster-Carr 8910K37 / 9143K544 – Steel Stock](https://www.mcmaster.com/8910K37-9143K544/) |
 | | | **Total Cost** | | **$630.68** | |
 
 
@@ -205,4 +205,6 @@ This analysis showed that the weakest point of the part is now the interior of t
 
 #### Base created to hold screws and frame
 [basetop.zip](https://github.com/user-attachments/files/34719335/basetop.zip)
+
+
 
