@@ -1,9 +1,5 @@
 # A11 – Motor Selection
 
-
-
-# A11 – Motor Selection
-
 ## 1. Motor Selection
 
 For our tensile tester, we needed motors capable of rotating the two leadscrews and producing enough torque to apply the required tensile load.
